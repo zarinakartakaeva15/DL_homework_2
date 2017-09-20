@@ -1,0 +1,12 @@
+[^\S][O|o][A-Za-z0-9\.]+@[A-Za-z0-9\.]+\.[A-Za-z0-9\.]*\.*[A-Za-z]+
+10
+Line 5389: To: outlook.team@enron.com
+Line 10713: To: outlook.team@enron.com
+Line 11587: Outlook.2000@enron.com
+Line 38056: To: outlook.team@enron.com
+Line 39073: Outlook.2000@enron.com
+Line 59228: From: online.service@schwab.com
+Line 64780:	 oscar.dalton@enron.com 
+Line 68977: From: open2win.0ll1.net@mailman.enron.com
+Line 73066: From: oportunity@cells4free.com
+Line 92996: Outlook.2000@enron.com
